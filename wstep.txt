@@ -1,0 +1,8 @@
+
+Wprowadzenie
+To jest książka o technologii React
+
+Dziękuję Janowi,Annie, Dawidowi i Johnowi
+
+Szczególny podziękowania dla Anny Kowalskiej
+Pozdrawiam
